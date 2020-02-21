@@ -1,0 +1,48 @@
+{
+  "file": "staxel/docks/CoffeeTable.dock", 
+  "priority": 1, 
+  "mergeLists": false, 
+  "patch" : {
+    "sites": [
+    {
+      "siteName": "Left",
+      "location": {
+        "x": -0.6,
+        "y": 0.7,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "Right",
+      "location": {
+        "x": 0.6,
+        "y": 0.7,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "Middle",
+      "location": {
+        "x": 0.0,
+        "y": 0.7,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    }
+  ],  
+  }
+}
